@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://git.io/typing-svg)
 [![skillicons](https://skillicons.dev/icons?i=cs,nodejs,unity,rider&theme=dark)](https://skillicons.dev)
 
 ![stats](https://github-readme-stats-ivory-six-21.vercel.app/api?username=emiteat&theme=dark&hide_border=true&show_icons=true&title_color=9945FF&icon_color=9945FF&text_color=ffffff)
