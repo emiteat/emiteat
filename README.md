@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=emiteat&theme=dark&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
+![stats](https://github-readme-stats-ivory-six-21.vercel.app/api?username=emiteat&theme=dark&hide_border=true&show_icons=true&title_color=9945FF&icon_color=9945FF&text_color=ffffff)
